@@ -1,8 +1,8 @@
 ## Welcome to my blog
 
 My rrss:
-< [Twitter: @_sxkki](https://twitter.com/sxkki_dev) > < [Github: Sxkki](https://github.com/sxkki) > < [Instagram: _miguedono](https://www.instagram.com/_miguedono/) >
-Email: LMMR8393@icloud.com
+< [Twitter: @sxkki_dev](https://twitter.com/sxkki_dev) > < [Github: Sxkki](https://github.com/sxkki) > < [Instagram: _miguedono](https://www.instagram.com/_miguedono/) >
+Email: <lmmr8393@icloud.com>
 
 Este blog fue creado para mi mostrar mis avances en la programación.
 
