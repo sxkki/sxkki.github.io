@@ -1,17 +1,17 @@
-## Bienvenidos a mi pagina / Welcome to my page
+## Welcome to my blog
 
 MIS REDES SOCIALES:
 < [Twitter: @_sxkki](https://twitter.com/_sxkki) > < [Github: Sxkki](https://github.com/sxkki) > < [Instagram: _miguedono](https://www.instagram.com/_miguedono/) >
 Email: LMMR8393@icloud.com
 
-Esta pagina estacreada para mi mostrar mis avances en la programación.
+Este bloh fue creada para mi mostrar mis avances en la programación.
 
 ```Python
 #!/usr/bin/python3
 
-hi = "Hello Tech People"
+sayHello = "Hello Tech People"
 
-print(hi)
+print(sayHello)
 ```
 
-Puedes contactarte conmigo para algun tipo de consultar y colaboraciones.
+Puedes contactarte conmigo para algun tipo de consultas y colaboraciones.
