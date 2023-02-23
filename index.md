@@ -13,8 +13,8 @@ sayHello = "Hello Tech People"
 
 print(sayHello)
 ```
-> 
->> My first public [Landing Page](https://monumental-figolla-66adf0.netlify.app/)
-> the pages needs updates
+
+>My first public [Landing Page](https://monumental-figolla-66adf0.netlify.app/)
+
 
 Puedes contactarme conmigo para algun tipo de colaboración.
