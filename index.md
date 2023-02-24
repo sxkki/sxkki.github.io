@@ -17,4 +17,4 @@ print(sayHello)
 >My first public [Landing Page](https://monumental-figolla-66adf0.netlify.app/)
 
 
-Puedes contactarme conmigo para algun tipo de colaboración.
+Puedes contactarme para algun tipo de colaboración.
