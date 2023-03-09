@@ -20,7 +20,7 @@ print(sayHello)
 
 ## Proximamente...
 
-[![coffee Page](assets/edenSiteVote.jpg)](https://prog-coffee.netlify.app/)
+[![coffee Page](assets/edenSiteVote.jpg)]
 
 Puedes contactarme para algun tipo de colaboración.
 
