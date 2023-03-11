@@ -18,6 +18,10 @@ print(sayHello)
 
 [![coffee Page](assets/landingPageCoffee.png)](https://prog-coffee.netlify.app/)
 
+## Fee Calculator Page
+
+[![coffee Page](assets/fee-calc-page.png)](https://fee-calc.netlify.app/)
+
 ## Proximamente...
 
 [![coffee Page](assets/edenSiteVote.jpg)]
