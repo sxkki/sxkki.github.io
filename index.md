@@ -24,7 +24,7 @@ print(sayHello)
 
 ## Proximamente...
 
-[![coffee Page](assets/edenSiteVote.jpg)]
+[![coffee Page](assets/edenSiteVote.jpg)]()
 
 Puedes contactarme para algun tipo de colaboración.
 
