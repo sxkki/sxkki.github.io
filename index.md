@@ -1,8 +1,7 @@
 ## Welcome to my blog
 
 My rrss:
-< [Github: Sxkki](https://github.com/sxkki) > < [Instagram: _miguedono](https://www.instagram.com/_miguedono/) >
-Email: <lmmr8393@icloud.com>
+< [Github: Sxkki](https://github.com/sxkki) > Email: <lmmr8393@icloud.com>
 
 Bienvenidos a mi blog, espero lo disfruten como yo.
 
