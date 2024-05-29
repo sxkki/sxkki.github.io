@@ -13,17 +13,18 @@ sayHello = "Hello Tech People"
 print(sayHello)
 ```
 
-## My first Landing Page
+## My first Page
 
-[![coffee Page](assets/landingPageCoffee.png)](https://prog-coffee.netlify.app/)
+[![Coffee Page](assets/prog-coffee.netlify.app-1.png)](https://prog-coffee.netlify.app/)
+
+## Alternative Page
+
+[![Coffee Page Alternative](assets/programmer-coffee.netlify.app.png)](https://prog-coffee.netlify.app/)
 
 ## Fee Calculator Page
 
-[![coffee Page](assets/fee-calc-page.png)](https://fee-calc.netlify.app/)
+[![Calc Page](assets/fee-calc-page.png)](https://fee-calc.netlify.app/)
 
-## Proximamente...
-
-[![coffee Page](assets/edenSiteVote.jpg)]()
 
 Puedes contactarme para algun tipo de colaboración.
 
