@@ -19,7 +19,7 @@ print(sayHello)
 
 ## Alternative Page
 
-[![Coffee Page Alternative](assets/programmer-coffee.netlify.app.png)](https://prog-coffee.netlify.app/)
+[![Coffee Page Alternative](assets/programmer-coffee.netlify.app.png)](https://programmer-coffee.netlify.app/)
 
 ## Fee Calculator Page
 
