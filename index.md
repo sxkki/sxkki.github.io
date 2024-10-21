@@ -1,6 +1,5 @@
-## Welcome to my blog
+## Welcome
 
-My rrss:
 Email: <lmmr8393@icloud.com>
 < [Github: Sxkki](https://github.com/sxkki) >
 < [Instagram: Luis M](https://www.instagram.com/devboy_21) >
