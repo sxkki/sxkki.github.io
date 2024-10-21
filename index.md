@@ -17,7 +17,8 @@ console.log(aboutMe);
 
 ## My Link App (in WordPress)
 
-[![MyLinkApp(assets/myappsites-wordpress.jpeg)](https://myappsites.wordpress.com/)
+[![MyLinkApp](assets/myappsites-wordpress.jpeg)](https://myappsites.wordpress.com/)
+
 
 ## Wiki Web for Arena Breakout video game
  
